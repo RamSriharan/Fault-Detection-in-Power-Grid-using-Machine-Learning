@@ -1,0 +1,46 @@
+=== Simulation (Elapsed: 3 sec) ===
+    Error:Error in 'MicroGridModel/Current Measurement': Failed to evaluate mask initialization commands.
+    Caused by:
+        The diagram must contain a powergui block. The block should be named 'powergui' and should be located at the highest level of your diagram where Simscape Electrical Specialized Power Systems blocks are found.
+    Error:Error in 'MicroGridModel/Current Measurement1': Failed to evaluate mask initialization commands.
+    Caused by:
+        The diagram must contain a powergui block. The block should be named 'powergui' and should be located at the highest level of your diagram where Simscape Electrical Specialized Power Systems blocks are found.
+    Error:Error in 'MicroGridModel/Linear Transformer': Failed to evaluate mask initialization commands.
+    Caused by:
+        The diagram must contain a powergui block. The block should be named 'powergui' and should be located at the highest level of your diagram where Simscape Electrical Specialized Power Systems blocks are found.
+    Error:Error in 'MicroGridModel/Three-Phase Transformer (Two Windings)': Failed to evaluate mask initialization commands.
+    Caused by:
+        The diagram must contain a powergui block. The block should be named 'powergui' and should be located at the highest level of your diagram where Simscape Electrical Specialized Power Systems blocks are found.
+    Error:Error in 'MicroGridModel/Three-Phase Source': Failed to evaluate mask initialization commands.
+    Caused by:
+        The diagram must contain a powergui block. The block should be named 'powergui' and should be located at the highest level of your diagram where Simscape Electrical Specialized Power Systems blocks are found.
+    Error:Error in 'MicroGridModel/Voltage Measurement': Failed to evaluate mask initialization commands.
+    Caused by:
+        The diagram must contain a powergui block. The block should be named 'powergui' and should be located at the highest level of your diagram where Simscape Electrical Specialized Power Systems blocks are found.
+    Error:Error in 'MicroGridModel/Voltage Measurement1': Failed to evaluate mask initialization commands.
+    Caused by:
+        The diagram must contain a powergui block. The block should be named 'powergui' and should be located at the highest level of your diagram where Simscape Electrical Specialized Power Systems blocks are found.
+=== Simulation (Elapsed: 5:09 min) ===
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto1' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto2' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto3' not found
+=== Update Diagram (Elapsed: 7 sec) ===
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto1' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto2' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto3' not found
+    Warning:'Input Port 1' of 'MicroGridModel/Scope' is not connected.
+    Warning:'Input Port 1' of 'MicroGridModel/Scope1' is not connected.
+    Warning:'Input Port 1' of 'MicroGridModel/Scope2' is not connected.
+    Warning:'Input Port 1' of 'MicroGridModel/Scope3' is not connected.
+=== Simulation (Elapsed: 3:35 min) ===
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto1' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto2' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto3' not found
+=== Simulation (Elapsed: 3:22 min) ===
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto1' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto2' not found
+    Warning:Matching "From" for "Goto" 'MicroGridModel/Goto3' not found
